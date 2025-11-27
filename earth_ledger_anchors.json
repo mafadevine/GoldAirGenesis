@@ -1,0 +1,42 @@
+{
+  "protocol_name": "Gold Air Protocol",
+  "total_supply_cap_kg": "21,000,000",
+  "backing_valuation": "550 Trillion USD (In-Situ Estimate)",
+  "anchors": [
+    {
+      "id": "001_ZIM",
+      "name": "The Great Dyke Complex",
+      "resource": "Platinum Group Metals (PGM)",
+      "coordinates": "-17.5000, 30.5000",
+      "status": "ACTIVE_GENESIS"
+    },
+    {
+      "id": "002_USA",
+      "name": "Carlin Trend Nevada",
+      "resource": "Deep Earth Gold",
+      "coordinates": "40.9000, -116.3000",
+      "status": "STRATEGIC_RESERVE"
+    },
+    {
+      "id": "003_LATAM",
+      "name": "Lithium Triangle",
+      "resource": "Lithium Brine",
+      "coordinates": "-23.0000, -67.0000",
+      "status": "STRATEGIC_RESERVE"
+    },
+    {
+      "id": "004_RUS",
+      "name": "Norilsk Intrusion",
+      "resource": "Nickel/Palladium",
+      "coordinates": "69.3000, 88.2000",
+      "status": "STRATEGIC_RESERVE"
+    },
+    {
+      "id": "005_CHN",
+      "name": "Bayan Obo",
+      "resource": "Rare Earth Elements",
+      "coordinates": "41.7600, 109.9600",
+      "status": "STRATEGIC_RESERVE"
+    }
+  ]
+}
